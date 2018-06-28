@@ -24,7 +24,8 @@
     "showEvents": false,
     "showFullNames": false,
     "createChannels": true,
-    "massMentions": true
+    "massMentions": true,
+    "sendErrorDM": false
   },
   "checkUpdates": true,
   "logLevel": "info",
