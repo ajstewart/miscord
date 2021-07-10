@@ -48,7 +48,7 @@
     "is-npm": "^4.0.0",
     "jquery": "^3.4.1",
     "js-yaml": "^3.13.1",
-    "libfb": "^2.3.5",
+    "libfb": "ChatPlug/libfb-js#master",
     "minimist": "^1.2.0",
     "node-fetch": "^2.6.0",
     "remove-accents": "^0.4.2",
